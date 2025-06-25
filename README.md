@@ -1,7 +1,7 @@
 # Sakana's AI Scientist on AI Safety Research
 
 This repository is a fork of Sakana's AI Scientist in which we explore what its pipelines produce when given AI Safety tasks.
-This work was done as part of [AI Safety Camp 10](https://www.aisafety.camp/).
+This work was done as part of [AI Safety Camp 10](https://www.aisafety.camp/), with financial support from a [Foresight Institute Grant](https://foresight.org/).
 
 Explanation of our changes or new files:
 - The `templates/probes` folder contains a template for running experiments on probing tasks.
